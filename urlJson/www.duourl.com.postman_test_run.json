@@ -1,0 +1,361 @@
+{
+	"id": "b5a2cba7-970f-49dc-a670-f317211d3976",
+	"name": "http://www.duourl.com",
+	"allTests": [],
+	"timestamp": "2019-12-21T14:07:02.223Z",
+	"collection_id": "1e26bde2-4905-48b0-ac18-97dfc641a51b",
+	"folder_id": 0,
+	"target_type": "collection",
+	"environment_id": "0",
+	"data": [],
+	"delay": 0,
+	"count": 1,
+	"collection": {
+		"id": "1e26bde2-4905-48b0-ac18-97dfc641a51b",
+		"name": "http://www.duourl.com",
+		"order": [
+			"dcfe5d0f-a781-499b-8554-cf7f0e798d7f",
+			"55047865-1415-49b1-a101-954b780ba633",
+			"3df6ede1-626c-4dc4-9c52-22bb4e21c629",
+			"79073f17-daa6-4022-ade9-11b909588e1b",
+			"8e66e048-1ffb-4607-a198-bb37556e9734",
+			"0fa149ed-2ff0-49b2-ba14-f3d01ee8d6c3",
+			"ac629461-b05d-4123-9c25-3dd6164b8758",
+			"9cda88a7-b935-44e8-ae1c-bba46d9ca71e"
+		],
+		"folders_order": [],
+		"isFavorite": false
+	},
+	"folder": null,
+	"environment": null,
+	"globals": null,
+	"results": [
+		{
+			"name": "www.kjwapi.com加拿大28-1",
+			"id": "dcfe5d0f-a781-499b-8554-cf7f0e798d7f",
+			"url": "http://api.kjwapi.com/hall/nodeService/api_request?uid=54&time=1561390716&gamekey=jnd28&api=apiGameList&md5=266147aaf59598d48339e16c1ca4f055&site=api.kjwapi.com",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"1495"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "1495",
+			"totalRequestTime": "1495",
+			"iterationResults": {}
+		},
+		{
+			"name": "www.caipiaoapi.com北京28-01",
+			"id": "55047865-1415-49b1-a101-954b780ba633",
+			"url": "http://main.caipiaoapi.com:7373/hall/nodeService/api_request?uid=1788&time=1575456738&gamekey=xy28&api=apiGameList&md5=68bb5c86e8d1ab49354d49f39c134259&site=api.jiekouapi.com",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"241"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "241",
+			"totalRequestTime": "241",
+			"iterationResults": {}
+		},
+		{
+			"name": "www.caipiaoapi.com加拿大28-01",
+			"id": "3df6ede1-626c-4dc4-9c52-22bb4e21c629",
+			"url": "http://main.caipiaoapi.com:7373/hall/nodeService/api_request?uid=1788&time=1575247331&gamekey=jndxy28&api=apiGameList&md5=adc1e43ed128c65edafb2708aa44d9cb&site=api.jiekouapi.com",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"50"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "50",
+			"totalRequestTime": "50",
+			"iterationResults": {}
+		},
+		{
+			"name": "user.lzwt.net蛋蛋28",
+			"id": "79073f17-daa6-4022-ade9-11b909588e1b",
+			"url": "http://api.lzwt.net/newly.do?token=CE6B3C0373B1CF79&format=json&rows=1&code=pcdd",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"394"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "394",
+			"totalRequestTime": "394",
+			"iterationResults": {}
+		},
+		{
+			"name": "user.lzwt.net加拿大28",
+			"id": "8e66e048-1ffb-4607-a198-bb37556e9734",
+			"url": "http://api.lzwt.net/newly.do?token=CE6B3C0373B1CF79&format=json&rows=1&code=jnd28",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"83"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "83",
+			"totalRequestTime": "83",
+			"iterationResults": {}
+		},
+		{
+			"name": "https://www.caijuapi.com北京28",
+			"id": "0fa149ed-2ff0-49b2-ba14-f3d01ee8d6c3",
+			"url": "https://d.caijuapi.com/News?token=fsfdjmj71wabwejb&name=xy28&rows=1",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"266"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "266",
+			"totalRequestTime": "266",
+			"iterationResults": {}
+		},
+		{
+			"name": "https://www.caijuapi.com加拿大28",
+			"id": "ac629461-b05d-4123-9c25-3dd6164b8758",
+			"url": "https://d.caijuapi.com/News?token=xfvgeaijv7dlsfdf&name=jnd28&rows=1",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"47"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "47",
+			"totalRequestTime": "47",
+			"iterationResults": {}
+		},
+		{
+			"name": "英伦快5www.caipiaozixun888.com",
+			"id": "9cda88a7-b935-44e8-ae1c-bba46d9ca71e",
+			"url": "http://127.0.0.1:1234/getYLK5",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"2"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "2",
+			"totalRequestTime": "2",
+			"iterationResults": {}
+		}
+	],
+	"totalPass": 0,
+	"totalFail": 0,
+	"totalTime": 2578,
+	"lifecycle": "done",
+	"requests": [
+		{
+			"name": "www.kjwapi.com加拿大28-1",
+			"id": "dcfe5d0f-a781-499b-8554-cf7f0e798d7f",
+			"url": "http://api.kjwapi.com/hall/nodeService/api_request?uid=54&time=1561390716&gamekey=jnd28&api=apiGameList&md5=266147aaf59598d48339e16c1ca4f055&site=api.kjwapi.com",
+			"time": "2019-12-21T14:07:02.223Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "www.caipiaoapi.com北京28-01",
+			"id": "55047865-1415-49b1-a101-954b780ba633",
+			"url": "http://main.caipiaoapi.com:7373/hall/nodeService/api_request?uid=1788&time=1575456738&gamekey=xy28&api=apiGameList&md5=68bb5c86e8d1ab49354d49f39c134259&site=api.jiekouapi.com",
+			"time": "2019-12-21T14:07:02.223Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "www.caipiaoapi.com加拿大28-01",
+			"id": "3df6ede1-626c-4dc4-9c52-22bb4e21c629",
+			"url": "http://main.caipiaoapi.com:7373/hall/nodeService/api_request?uid=1788&time=1575247331&gamekey=jndxy28&api=apiGameList&md5=adc1e43ed128c65edafb2708aa44d9cb&site=api.jiekouapi.com",
+			"time": "2019-12-21T14:07:02.223Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "user.lzwt.net蛋蛋28",
+			"id": "79073f17-daa6-4022-ade9-11b909588e1b",
+			"url": "http://api.lzwt.net/newly.do?token=CE6B3C0373B1CF79&format=json&rows=1&code=pcdd",
+			"time": "2019-12-21T14:07:02.223Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "user.lzwt.net加拿大28",
+			"id": "8e66e048-1ffb-4607-a198-bb37556e9734",
+			"url": "http://api.lzwt.net/newly.do?token=CE6B3C0373B1CF79&format=json&rows=1&code=jnd28",
+			"time": "2019-12-21T14:07:02.223Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "https://www.caijuapi.com北京28",
+			"id": "0fa149ed-2ff0-49b2-ba14-f3d01ee8d6c3",
+			"url": "https://d.caijuapi.com/News?token=fsfdjmj71wabwejb&name=xy28&rows=1",
+			"time": "2019-12-21T14:07:02.223Z",
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "https://www.caijuapi.com加拿大28",
+			"id": "ac629461-b05d-4123-9c25-3dd6164b8758",
+			"url": "https://d.caijuapi.com/News?token=xfvgeaijv7dlsfdf&name=jnd28&rows=1",
+			"time": "2019-12-21T14:07:02.223Z",
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "英伦快5www.caipiaozixun888.com",
+			"id": "9cda88a7-b935-44e8-ae1c-bba46d9ca71e",
+			"url": "http://127.0.0.1:1234/getYLK5",
+			"time": "2019-12-21T14:07:02.223Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		}
+	],
+	"synced": false
+}

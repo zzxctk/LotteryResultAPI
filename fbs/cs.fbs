@@ -1,0 +1,38 @@
+namespace MyGame;
+attribute "priority";
+enum Color : byte { Red = 1, Green, Blue }
+///union Any { Monster, Weapon, Pickup }
+//union Any { Monster}
+union Any { Monster, Weapon}
+
+struct Vec3 {
+  x:float;
+  y:float;
+  z:float;
+}
+
+/// 注释
+table Monster {
+  GameID:int;
+  Bnx:string;
+  pos:Vec3;
+  mana:short = 150;
+  hp:short;
+  name:string;
+  friendly:bool = false (deprecated, priority: 1);
+  inventory:[ubyte];
+  color:Color = Blue;
+  test:Any;
+}
+
+table Weapon {
+  pos:Vec3;
+  mana:short = 150;
+}
+
+rpc_service MonsterStorage {
+  Store(Monster):Weapon;
+}
+
+root_type Monster;
+root_type Weapon;

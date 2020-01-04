@@ -1,0 +1,348 @@
+{
+	"info": {
+		"_postman_id": "1e26bde2-4905-48b0-ac18-97dfc641a51b",
+		"name": "http://www.duourl.com",
+		"description": "开奖网",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "www.kjwapi.com加拿大28-1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.kjwapi.com/hall/nodeService/api_request?uid=54&time=1561390716&gamekey=jnd28&api=apiGameList&md5=266147aaf59598d48339e16c1ca4f055&site=api.kjwapi.com",
+					"protocol": "http",
+					"host": [
+						"api",
+						"kjwapi",
+						"com"
+					],
+					"path": [
+						"hall",
+						"nodeService",
+						"api_request"
+					],
+					"query": [
+						{
+							"key": "uid",
+							"value": "54"
+						},
+						{
+							"key": "time",
+							"value": "1561390716"
+						},
+						{
+							"key": "gamekey",
+							"value": "jnd28"
+						},
+						{
+							"key": "api",
+							"value": "apiGameList"
+						},
+						{
+							"key": "md5",
+							"value": "266147aaf59598d48339e16c1ca4f055"
+						},
+						{
+							"key": "site",
+							"value": "api.kjwapi.com"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "www.caipiaoapi.com北京28-01",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://main.caipiaoapi.com:7373/hall/nodeService/api_request?uid=1788&time=1575456738&gamekey=xy28&api=apiGameList&md5=68bb5c86e8d1ab49354d49f39c134259&site=api.jiekouapi.com",
+					"protocol": "http",
+					"host": [
+						"main",
+						"caipiaoapi",
+						"com"
+					],
+					"port": "7373",
+					"path": [
+						"hall",
+						"nodeService",
+						"api_request"
+					],
+					"query": [
+						{
+							"key": "uid",
+							"value": "1788"
+						},
+						{
+							"key": "time",
+							"value": "1575456738"
+						},
+						{
+							"key": "gamekey",
+							"value": "xy28"
+						},
+						{
+							"key": "api",
+							"value": "apiGameList"
+						},
+						{
+							"key": "md5",
+							"value": "68bb5c86e8d1ab49354d49f39c134259"
+						},
+						{
+							"key": "site",
+							"value": "api.jiekouapi.com"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "www.caipiaoapi.com加拿大28-01",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://main.caipiaoapi.com:7373/hall/nodeService/api_request?uid=1788&time=1575247331&gamekey=jndxy28&api=apiGameList&md5=adc1e43ed128c65edafb2708aa44d9cb&site=api.jiekouapi.com",
+					"protocol": "http",
+					"host": [
+						"main",
+						"caipiaoapi",
+						"com"
+					],
+					"port": "7373",
+					"path": [
+						"hall",
+						"nodeService",
+						"api_request"
+					],
+					"query": [
+						{
+							"key": "uid",
+							"value": "1788"
+						},
+						{
+							"key": "time",
+							"value": "1575247331"
+						},
+						{
+							"key": "gamekey",
+							"value": "jndxy28"
+						},
+						{
+							"key": "api",
+							"value": "apiGameList"
+						},
+						{
+							"key": "md5",
+							"value": "adc1e43ed128c65edafb2708aa44d9cb"
+						},
+						{
+							"key": "site",
+							"value": "api.jiekouapi.com"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "user.lzwt.net蛋蛋28",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.lzwt.net/newly.do?token=CE6B3C0373B1CF79&format=json&rows=1&code=pcdd",
+					"protocol": "http",
+					"host": [
+						"api",
+						"lzwt",
+						"net"
+					],
+					"path": [
+						"newly.do"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "CE6B3C0373B1CF79"
+						},
+						{
+							"key": "format",
+							"value": "json"
+						},
+						{
+							"key": "rows",
+							"value": "1"
+						},
+						{
+							"key": "code",
+							"value": "pcdd"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "user.lzwt.net加拿大28",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.lzwt.net/newly.do?token=CE6B3C0373B1CF79&format=json&rows=1&code=jnd28",
+					"protocol": "http",
+					"host": [
+						"api",
+						"lzwt",
+						"net"
+					],
+					"path": [
+						"newly.do"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "CE6B3C0373B1CF79"
+						},
+						{
+							"key": "format",
+							"value": "json"
+						},
+						{
+							"key": "rows",
+							"value": "1"
+						},
+						{
+							"key": "code",
+							"value": "jnd28"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.caijuapi.com北京28",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://d.caijuapi.com/News?token=fsfdjmj71wabwejb&name=xy28&rows=1",
+					"protocol": "https",
+					"host": [
+						"d",
+						"caijuapi",
+						"com"
+					],
+					"path": [
+						"News"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "fsfdjmj71wabwejb"
+						},
+						{
+							"key": "name",
+							"value": "xy28"
+						},
+						{
+							"key": "rows",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.caijuapi.com加拿大28",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://d.caijuapi.com/News?token=xfvgeaijv7dlsfdf&name=jnd28&rows=1",
+					"protocol": "https",
+					"host": [
+						"d",
+						"caijuapi",
+						"com"
+					],
+					"path": [
+						"News"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "xfvgeaijv7dlsfdf"
+						},
+						{
+							"key": "name",
+							"value": "jnd28"
+						},
+						{
+							"key": "rows",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "英伦快5www.caipiaozixun888.com",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+						"type": "text"
+					},
+					{
+						"key": "Accept-Language",
+						"value": "zh-CN,zh;q=0.9",
+						"type": "text"
+					},
+					{
+						"key": "Host",
+						"value": "www.caipiaozixun888.com",
+						"type": "text"
+					},
+					{
+						"key": "User-Agent",
+						"value": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:1234/getYLK5",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "1234",
+					"path": [
+						"getYLK5"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
